@@ -1,0 +1,4 @@
+module cloudtest
+typeinfo appcloudtest.qmltypes
+prefer :/
+

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libappcloudtestlib.a CMakeFiles/appcloudtestlib.dir/appcloudtestlib_autogen/mocs_compilation.cpp.o CMakeFiles/appcloudtestlib.dir/src/thing.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libappcloudtestlib.a

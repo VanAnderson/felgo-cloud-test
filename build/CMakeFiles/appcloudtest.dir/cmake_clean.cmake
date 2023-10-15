@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  ".rcc/qrc_qmake_cloudtest.cpp"
+  ".rcc/qrc_qmake_cloudtest_copy.cpp"
+  "CMakeFiles/appcloudtest_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appcloudtest_autogen.dir/ParseCache.txt"
+  "appcloudtest_autogen"
+  "CMakeFiles/appcloudtest.dir/appcloudtest_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/appcloudtest.dir/appcloudtest_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/appcloudtest.dir/appcloudtest_qmltyperegistrations.cpp.o"
+  "CMakeFiles/appcloudtest.dir/appcloudtest_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/appcloudtest.dir/build/.rcc/qrc_qmake_cloudtest.cpp.o"
+  "CMakeFiles/appcloudtest.dir/build/.rcc/qrc_qmake_cloudtest.cpp.o.d"
+  "CMakeFiles/appcloudtest.dir/build/.rcc/qrc_qmake_cloudtest_copy.cpp.o"
+  "CMakeFiles/appcloudtest.dir/build/.rcc/qrc_qmake_cloudtest_copy.cpp.o.d"
+  "CMakeFiles/appcloudtest.dir/src/main.cpp.o"
+  "CMakeFiles/appcloudtest.dir/src/main.cpp.o.d"
+  "appcloudtest.app/Contents/MacOS/appcloudtest"
+  "appcloudtest.app/Contents/Resources/app_icon.icns"
+  "appcloudtest.app/Contents/Resources/assets/felgo-logo.png"
+  "appcloudtest.app/Contents/Resources/qml/Main.qml"
+  "appcloudtest.app/Contents/Resources/qml/config.json"
+  "appcloudtest.app/Contents/Resources/qml/logic/Logic.qml"
+  "appcloudtest.app/Contents/Resources/qml/logic/ViewHelper.qml"
+  "appcloudtest.app/Contents/Resources/qml/model/DataModel.qml"
+  "appcloudtest.app/Contents/Resources/qml/model/RestAPI.qml"
+  "appcloudtest.app/Contents/Resources/qml/pages/LoginPage.qml"
+  "appcloudtest.app/Contents/Resources/qml/pages/ProfilePage.qml"
+  "appcloudtest.app/Contents/Resources/qml/pages/TodoDetailPage.qml"
+  "appcloudtest.app/Contents/Resources/qml/pages/TodoListPage.qml"
+  "appcloudtest.pdb"
+  "appcloudtest_qmltyperegistrations.cpp"
+  "cloudtest/appcloudtest.qmltypes"
+  "meta_types/qt6appcloudtest_metatypes.json"
+  "meta_types/qt6appcloudtest_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appcloudtest.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

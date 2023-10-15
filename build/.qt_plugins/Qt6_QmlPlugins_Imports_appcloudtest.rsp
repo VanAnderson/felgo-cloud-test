@@ -1,0 +1,14 @@
+-rootPath
+/Users/vananderson/cloudtest
+-cmake-output
+-output-file
+/Users/vananderson/cloudtest/build/.qt_plugins/Qt6_QmlPlugins_Imports_appcloudtest.cmake
+-importPath
+/Users/vananderson/cloudtest/build/cloudtest
+-importPath
+/Users/vananderson/cloudtest/build
+-importPath
+/Users/vananderson/Felgo/Felgo/macos/./qml
+-qrcFiles
+/Users/vananderson/cloudtest/build/.rcc/qmake_cloudtest.qrc
+/Users/vananderson/cloudtest/build/.rcc/qmake_cloudtest_copy.qrc

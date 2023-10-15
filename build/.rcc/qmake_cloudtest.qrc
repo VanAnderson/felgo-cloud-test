@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qmldir">/Users/vananderson/cloudtest/build/cloudtest/qmldir</file>
+  </qresource>
+</RCC>
+
